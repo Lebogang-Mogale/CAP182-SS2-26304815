@@ -1,5 +1,5 @@
-_Purpose_
 _Prepare the public Bank Customer Churn Modelling dataset for classification as a reproducible proxy for the STADIOEquities dormancy problem._
+
 Steps
 1. Inspect data types, missing values and target distribution.
 2. Remove RowNumber, CustomerId and Surname.
