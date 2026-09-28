@@ -12,4 +12,4 @@
 9. Use class_weight="balanced" in both classifiers because the target is imbalanced.
 10. Fit preprocessing only on training data through a scikit-learn Pipeline/ColumnTransformer to prevent leakage.
 
-Implementation: Notebooks/01_Preprocessing.ipynb.
+**Implementation:** Notebooks/01_Preprocessing.ipynb.
