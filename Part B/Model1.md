@@ -1,4 +1,5 @@
 Model 1 – Logistic Regression
+
 Logistic Regression is the baseline binary classifier. It provides an interpretable linear benchmark and probability estimates.
 
 | Hyperparameter | Value |
@@ -10,4 +11,5 @@ Logistic Regression is the baseline binary classifier. It provides an interpreta
 | random_state | 42 |
 
 The model is combined with the preprocessing ColumnTransformer in a pipeline.
+
 Implementation: notebooks/03_Model1_Logistic_Regression.ipynb.
