@@ -8,4 +8,4 @@ Mettle et al. (2026), using the IBM Telco Customer Churn dataset, reported Accur
 These are published benchmark figures, not independently executed results from this repository. Run the supplied evaluation code on the exact Part A dataset before final submission and replace the benchmark figures with your actual outputs.
 
 ## Reproduction
-**Run:**Notebooks/Performance_Comparison.ipynb`.
+**Run:** Notebooks/Performance_Comparison.ipynb`.
