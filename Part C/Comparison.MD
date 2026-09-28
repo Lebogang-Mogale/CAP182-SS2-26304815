@@ -12,5 +12,5 @@ These are published benchmark results from Mettle et al. (2026), not independent
 
 For STADIOEquities, the eventual model should be evaluated using recall, precision, F1, ROC-AUC, threshold analysis and temporal validation using information available before the prediction point.
 
-Run: notebooks/Performance_Comparison.ipynb` to generate results .
+**Run:** notebooks/Performance_Comparison.ipynb` to generate results .
 
