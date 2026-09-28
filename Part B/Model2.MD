@@ -1,4 +1,4 @@
-**Model 2 – Random Forest**
+# Model 2 – Random Forest
 
 Random Forest is the second classifier. It provides a nonlinear ensemble approach capable of modelling interactions between customer/account variables.**
 
