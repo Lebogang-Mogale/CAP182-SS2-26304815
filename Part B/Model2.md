@@ -12,6 +12,7 @@ Random Forest is the second classifier. It provides a nonlinear ensemble approac
 | random_state | 42 |
 | n_jobs | -1 |
 
+
 The same train/test split and preprocessing approach is used so that the comparison of the models can be more fairly.
 
 **Implementation:** Notebooks/04_Model2_Random_Forest.ipynb.
