@@ -12,4 +12,4 @@ Logistic Regression is the baseline binary classifier. It provides an interpreta
 
 The model is combined with the preprocessing ColumnTransformer in a pipeline.
 
-Implementation: notebooks/03_Model1_Logistic_Regression.ipynb.
+**Implementation:** Notebooks/03_Model1_Logistic_Regression.ipynb.
