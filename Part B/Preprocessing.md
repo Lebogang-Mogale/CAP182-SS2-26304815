@@ -1,6 +1,6 @@
-_Prepare the public Bank Customer Churn Modelling dataset for classification as a reproducible proxy for the STADIOEquities dormancy problem._
+**Prepare the public Bank Customer Churn Modelling dataset for classification as a reproducible proxy for the STADIOEquities dormancy problem.**
 
-Steps
+**Steps**
 1. Inspect data types, missing values and target distribution.
 2. Remove RowNumber, CustomerId and Surname.
 3. Separate predictors from the Exited target.
@@ -11,4 +11,5 @@ Steps
 8. Standardise numerical variables.
 9. Use class_weight="balanced" in both classifiers because the target is imbalanced.
 10. Fit preprocessing only on training data through a scikit-learn Pipeline/ColumnTransformer to prevent leakage.
-Implementation: scripts/preprocessing.py and notebooks/01_Preprocessing.ipynb.
+
+Implementation: Notebooks/01_Preprocessing.ipynb.
