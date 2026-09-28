@@ -1,4 +1,4 @@
-**Prepare the public Bank Customer Churn Modelling dataset for classification as a reproducible proxy for the STADIOEquities dormancy problem.**
+# Prepare the public Bank Customer Churn Modelling dataset for classification as a reproducible proxy for the STADIOEquities dormancy problem.
 
 **Steps**
 1. Inspect data types, missing values and target distribution.
