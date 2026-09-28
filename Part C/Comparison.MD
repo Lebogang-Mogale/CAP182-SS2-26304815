@@ -1,4 +1,4 @@
-# Comparison – Model 1 and Model 2
+ Comparison – Model 1 and Model 2
 
 | Metric | Logistic Regression | Random Forest |
 |---|---:|---:|
