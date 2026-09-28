@@ -10,4 +10,4 @@
 
 The Exited target is never used to construct features.
 
-Implementation: notebooks/02_Feature_Engineering.ipynb.
+**Implementation:** notebooks/02_Feature_Engineering.ipynb.
