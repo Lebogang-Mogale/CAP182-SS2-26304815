@@ -1,4 +1,4 @@
-**Model 1 – Logistic Regression**
+# Model 1 – Logistic Regression
 
 Logistic Regression is the baseline binary classifier. It provides an interpretable linear benchmark and probability estimates.
 
