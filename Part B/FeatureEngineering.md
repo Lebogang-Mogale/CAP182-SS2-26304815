@@ -1,4 +1,4 @@
-The following non-target features are created:
+**The following non-target features are created:**
 
 | Feature | Description |
 |---|---|
@@ -9,4 +9,5 @@ The following non-target features are created:
 | `IsBalanceZero` | 1 when Balance equals zero; otherwise 0. |
 
 The Exited target is never used to construct features.
-Implementation: scripts/feature_engineering.py and notebooks/02_Feature_Engineering.ipynb.
+
+Implementation: notebooks/02_Feature_Engineering.ipynb.
